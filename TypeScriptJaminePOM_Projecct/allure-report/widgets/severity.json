@@ -1,0 +1,131 @@
+[ {
+  "uid" : "5221f287e143af13",
+  "name" : "vrifying opage title for subMenuPageTitle2",
+  "time" : {
+    "start" : 1592047430434,
+    "stop" : 1592047434691,
+    "duration" : 4257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9be4adfd81789e70",
+  "name" : "encountered a declaration exception",
+  "time" : {
+    "start" : 1592047400518,
+    "stop" : 1592047400518,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "509bbabc5bac2eb2",
+  "name" : "home page data driven using dataprividerurlCurrent_Content_FirstDataSets",
+  "time" : {
+    "start" : 1592047350739,
+    "stop" : 1592047356741,
+    "duration" : 6002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d23c4c077cd01eeb",
+  "name" : "vrifying ACCRON DISPLAYED test  scenario",
+  "time" : {
+    "start" : 1592047400518,
+    "stop" : 1592047400518,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "979354f212db52a",
+  "name" : "home page data driven using dataprividerurlCurrent_Content_SecondDataSets",
+  "time" : {
+    "start" : 1592047356741,
+    "stop" : 1592047359655,
+    "duration" : 2914
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "564f35e09ff1b91e",
+  "name" : "drag and drop test case",
+  "time" : {
+    "start" : 1592047362325,
+    "stop" : 1592047362325,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2f4929c66074dde4",
+  "name" : "home page data driven using dataprividerurlCurrent_Content_ThirdDataSets",
+  "time" : {
+    "start" : 1592047359656,
+    "stop" : 1592047362317,
+    "duration" : 2661
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56dfeecab07f8c95",
+  "name" : "populating the register formurlCurrent_Content_SecondDataSets",
+  "time" : {
+    "start" : 1592047410195,
+    "stop" : 1592047419924,
+    "duration" : 9729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24d853b96e4a082",
+  "name" : "vrifying opage title for subMenuPageTitle3",
+  "time" : {
+    "start" : 1592047434691,
+    "stop" : 1592047439872,
+    "duration" : 5181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59cc30838f49c40e",
+  "name" : "selectable vrification test demo",
+  "time" : {
+    "start" : 1592047362325,
+    "stop" : 1592047400515,
+    "duration" : 38190
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ae430195fda0ad6",
+  "name" : "populating the register formurlCurrent_Content_ThirdDataSets",
+  "time" : {
+    "start" : 1592047419924,
+    "stop" : 1592047428128,
+    "duration" : 8204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef31347f31697bb4",
+  "name" : "vrifying opage title for subMenuPageTitle1",
+  "time" : {
+    "start" : 1592047428131,
+    "stop" : 1592047430434,
+    "duration" : 2303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9ba884d01a2445e",
+  "name" : "populating the register formurlCurrent_Content_FirstDataSets",
+  "time" : {
+    "start" : 1592047400522,
+    "stop" : 1592047410195,
+    "duration" : 9673
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

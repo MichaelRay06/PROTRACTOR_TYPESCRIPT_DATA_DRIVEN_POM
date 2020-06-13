@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1592047400518' stop='1592047400520'>
+    <name>performimg menu actions</name>
+    <title>performimg menu actions</title>
+    <test-cases>
+        <test-case start='1592047400518' status='pending' stop='1592047400518'>
+            <name>vrifying ACCRON DISPLAYED test  scenario</name>
+            <title>vrifying ACCRON DISPLAYED test  scenario</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1592047400518' status='pending' stop='1592047400518'>
+            <name>encountered a declaration exception</name>
+            <title>encountered a declaration exception</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

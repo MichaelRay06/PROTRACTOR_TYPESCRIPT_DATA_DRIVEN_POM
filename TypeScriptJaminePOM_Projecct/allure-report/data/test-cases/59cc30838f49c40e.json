@@ -1,0 +1,52 @@
+{
+  "uid" : "59cc30838f49c40e",
+  "name" : "selectable vrification test demo",
+  "fullName" : "performing web interatction.selectable vrification test demo",
+  "historyId" : "7e4117b0a282a702395454e47f9f2a91",
+  "time" : {
+    "start" : 1592047362325,
+    "stop" : 1592047400515,
+    "duration" : 38190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (C:\\Users\\mrmra\\.jenkins\\TypeScriptJaminePOM_Projecct\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at ontimeout (timers.js:436:11)\n                    at tryOnTimeout (timers.js:300:5)\n                    at listOnTimeout (timers.js:263:5)\n                    at Timer.processTimers (timers.js:223:10)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "performing web interatction"
+  }, {
+    "name" : "testClass",
+    "value" : "performing web interatction"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectable vrification test demo"
+  }, {
+    "name" : "package",
+    "value" : "performing web interatction"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "59cc30838f49c40e.json",
+  "parameterValues" : [ ]
+}

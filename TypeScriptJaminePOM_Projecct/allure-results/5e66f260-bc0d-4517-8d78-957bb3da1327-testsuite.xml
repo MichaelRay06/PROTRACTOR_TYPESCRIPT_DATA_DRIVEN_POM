@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1592048576686' stop='1592048590683'>
+    <name>damostrate data driven test</name>
+    <title>damostrate data driven test</title>
+    <test-cases>
+        <test-case start='1592048576687' status='passed' stop='1592048583835'>
+            <name>home page data driven using dataprividerurlCurrent_Content_FirstDataSets</name>
+            <title>home page data driven using dataprividerurlCurrent_Content_FirstDataSets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1592048583835' status='passed' stop='1592048587109'>
+            <name>home page data driven using dataprividerurlCurrent_Content_SecondDataSets</name>
+            <title>home page data driven using dataprividerurlCurrent_Content_SecondDataSets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1592048587109' status='passed' stop='1592048590682'>
+            <name>home page data driven using dataprividerurlCurrent_Content_ThirdDataSets</name>
+            <title>home page data driven using dataprividerurlCurrent_Content_ThirdDataSets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

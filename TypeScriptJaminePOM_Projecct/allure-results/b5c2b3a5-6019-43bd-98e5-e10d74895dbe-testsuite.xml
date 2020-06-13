@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1592047428131' stop='1592047439874'>
+    <name>verifyiong page titles</name>
+    <title>verifyiong page titles</title>
+    <test-cases>
+        <test-case start='1592047428131' status='passed' stop='1592047430434'>
+            <name>vrifying opage title for subMenuPageTitle1</name>
+            <title>vrifying opage title for subMenuPageTitle1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1592047430434' status='passed' stop='1592047434691'>
+            <name>vrifying opage title for subMenuPageTitle2</name>
+            <title>vrifying opage title for subMenuPageTitle2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1592047434691' status='passed' stop='1592047439872'>
+            <name>vrifying opage title for subMenuPageTitle3</name>
+            <title>vrifying opage title for subMenuPageTitle3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

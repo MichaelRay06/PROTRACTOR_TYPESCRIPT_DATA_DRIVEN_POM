@@ -1,0 +1,48 @@
+{
+  "uid" : "d23c4c077cd01eeb",
+  "name" : "vrifying ACCRON DISPLAYED test  scenario",
+  "fullName" : "performimg menu actions.vrifying ACCRON DISPLAYED test  scenario",
+  "historyId" : "18759af6c0db19605e4f25f5744f574",
+  "time" : {
+    "start" : 1592047400518,
+    "stop" : 1592047400518,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "performimg menu actions"
+  }, {
+    "name" : "testClass",
+    "value" : "performimg menu actions"
+  }, {
+    "name" : "testMethod",
+    "value" : "vrifying ACCRON DISPLAYED test  scenario"
+  }, {
+    "name" : "package",
+    "value" : "performimg menu actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d23c4c077cd01eeb.json",
+  "parameterValues" : [ ]
+}

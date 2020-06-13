@@ -1,0 +1,45 @@
+{
+  "name": "TypeScriptJaminePOM_Projecct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JSFiles/confs.js",
+  "scripts": {
+    "tsc": "tsc",
+    "pretest": "npm run tsc",
+    "confs": "protractor JSFiles/confs.js",
+    "Chercher": "protractor JSFiles/ChercherTechJasmineReporter.js",
+    "report": "allure generate allure-results --clean -o allure-report || true",
+    "both": "protractor JSFiles/ChercherTechJasmineReporter.js &&  protractor JSFiles/confs.js && report",
+    "protractor": "./node_modules/protractor/built/cli.js",
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update",
+    "webdriver-start": "./node_modules/.bin/webdriver-manager start",
+    "start": "npm run  webdriver-start &&npm run confs ",
+    "debug": "node --inspect-brk ./node_modules/.bin/protractor asyncAwait/confs.js"
+  },
+  "dependencies": {
+    "@types/jasmine": "3.5.10",
+    "@types/jasminewd2": "^2.0.8",
+    "@types/node": "^14.0.11",
+    "allure-commandline": "^2.13.0",
+    "chercher-tech-jasmine-reporter": "^1.0.5",
+    "i": "^0.3.6",
+    "install": "^0.13.0",
+    "jasmine": "^3.5.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine2-protractor-utils": "^1.3.0",
+    "protractor": "7.0.0",
+    "typescript": "~3.9.3"
+  },
+  "devDependencies": {
+    "@types/jasminewd2": "^2.0.8",
+    "fs-extra": "9.0.1",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-html-spec-reporter": "0.0.3",
+    "ts-node": "^ 8.10.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

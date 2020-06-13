@@ -1,0 +1,194 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "damostrate data driven test",
+    "children" : [ {
+      "name" : "home page data driven using dataprividerurlCurrent_Content_FirstDataSets",
+      "uid" : "509bbabc5bac2eb2",
+      "parentUid" : "a0b2520e8eda75b41bc9fcaf7e623b95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047350739,
+        "stop" : 1592047356741,
+        "duration" : 6002
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "home page data driven using dataprividerurlCurrent_Content_SecondDataSets",
+      "uid" : "979354f212db52a",
+      "parentUid" : "a0b2520e8eda75b41bc9fcaf7e623b95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047356741,
+        "stop" : 1592047359655,
+        "duration" : 2914
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "home page data driven using dataprividerurlCurrent_Content_ThirdDataSets",
+      "uid" : "2f4929c66074dde4",
+      "parentUid" : "a0b2520e8eda75b41bc9fcaf7e623b95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047359656,
+        "stop" : 1592047362317,
+        "duration" : 2661
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a0b2520e8eda75b41bc9fcaf7e623b95"
+  }, {
+    "name" : "performing web interatction",
+    "children" : [ {
+      "name" : "drag and drop test case",
+      "uid" : "564f35e09ff1b91e",
+      "parentUid" : "4055e345df0dc861e63840fb41cb7ed6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1592047362325,
+        "stop" : 1592047362325,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "selectable vrification test demo",
+      "uid" : "59cc30838f49c40e",
+      "parentUid" : "4055e345df0dc861e63840fb41cb7ed6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1592047362325,
+        "stop" : 1592047400515,
+        "duration" : 38190
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4055e345df0dc861e63840fb41cb7ed6"
+  }, {
+    "name" : "performimg menu actions",
+    "children" : [ {
+      "name" : "encountered a declaration exception",
+      "uid" : "9be4adfd81789e70",
+      "parentUid" : "7902fa4466c24d36945c6ffc5b72215a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1592047400518,
+        "stop" : 1592047400518,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "vrifying ACCRON DISPLAYED test  scenario",
+      "uid" : "d23c4c077cd01eeb",
+      "parentUid" : "7902fa4466c24d36945c6ffc5b72215a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1592047400518,
+        "stop" : 1592047400518,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7902fa4466c24d36945c6ffc5b72215a"
+  }, {
+    "name" : "demo automation homepage demo",
+    "children" : [ {
+      "name" : "populating the register formurlCurrent_Content_FirstDataSets",
+      "uid" : "a9ba884d01a2445e",
+      "parentUid" : "a178de45f305c87e91a4f53557152984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047400522,
+        "stop" : 1592047410195,
+        "duration" : 9673
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "populating the register formurlCurrent_Content_SecondDataSets",
+      "uid" : "56dfeecab07f8c95",
+      "parentUid" : "a178de45f305c87e91a4f53557152984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047410195,
+        "stop" : 1592047419924,
+        "duration" : 9729
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "populating the register formurlCurrent_Content_ThirdDataSets",
+      "uid" : "9ae430195fda0ad6",
+      "parentUid" : "a178de45f305c87e91a4f53557152984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047419924,
+        "stop" : 1592047428128,
+        "duration" : 8204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a178de45f305c87e91a4f53557152984"
+  }, {
+    "name" : "verifyiong page titles",
+    "children" : [ {
+      "name" : "vrifying opage title for subMenuPageTitle1",
+      "uid" : "ef31347f31697bb4",
+      "parentUid" : "ab07794643db63b13962b7f4cae33d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047428131,
+        "stop" : 1592047430434,
+        "duration" : 2303
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "vrifying opage title for subMenuPageTitle2",
+      "uid" : "5221f287e143af13",
+      "parentUid" : "ab07794643db63b13962b7f4cae33d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047430434,
+        "stop" : 1592047434691,
+        "duration" : 4257
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "vrifying opage title for subMenuPageTitle3",
+      "uid" : "24d853b96e4a082",
+      "parentUid" : "ab07794643db63b13962b7f4cae33d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592047434691,
+        "stop" : 1592047439872,
+        "duration" : 5181
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ab07794643db63b13962b7f4cae33d80"
+  } ]
+}

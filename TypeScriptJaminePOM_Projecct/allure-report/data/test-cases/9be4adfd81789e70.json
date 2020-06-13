@@ -1,0 +1,48 @@
+{
+  "uid" : "9be4adfd81789e70",
+  "name" : "encountered a declaration exception",
+  "fullName" : "performimg menu actions.encountered a declaration exception",
+  "historyId" : "cab98e5aa1304600f745cbf31dbcd8c4",
+  "time" : {
+    "start" : 1592047400518,
+    "stop" : 1592047400518,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "performimg menu actions"
+  }, {
+    "name" : "testClass",
+    "value" : "performimg menu actions"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "performimg menu actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9be4adfd81789e70.json",
+  "parameterValues" : [ ]
+}

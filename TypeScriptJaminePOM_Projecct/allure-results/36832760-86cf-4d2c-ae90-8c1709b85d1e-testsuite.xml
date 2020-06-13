@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1592048936641' stop='1592048972058'>
+    <name>demo automation homepage demo</name>
+    <title>demo automation homepage demo</title>
+    <test-cases>
+        <test-case start='1592048936641' status='passed' stop='1592048949131'>
+            <name>populating the register formurlCurrent_Content_FirstDataSets</name>
+            <title>populating the register formurlCurrent_Content_FirstDataSets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1592048949131' status='passed' stop='1592048961482'>
+            <name>populating the register formurlCurrent_Content_SecondDataSets</name>
+            <title>populating the register formurlCurrent_Content_SecondDataSets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1592048961482' status='passed' stop='1592048972058'>
+            <name>populating the register formurlCurrent_Content_ThirdDataSets</name>
+            <title>populating the register formurlCurrent_Content_ThirdDataSets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

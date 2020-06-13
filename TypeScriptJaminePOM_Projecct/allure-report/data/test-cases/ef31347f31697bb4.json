@@ -1,0 +1,46 @@
+{
+  "uid" : "ef31347f31697bb4",
+  "name" : "vrifying opage title for subMenuPageTitle1",
+  "fullName" : "verifyiong page titles.vrifying opage title for subMenuPageTitle1",
+  "historyId" : "4c6f924bf9dd2f6ad361bfbd74920c06",
+  "time" : {
+    "start" : 1592047428131,
+    "stop" : 1592047430434,
+    "duration" : 2303
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "verifyiong page titles"
+  }, {
+    "name" : "testClass",
+    "value" : "verifyiong page titles"
+  }, {
+    "name" : "testMethod",
+    "value" : "vrifying opage title for subMenuPageTitle1"
+  }, {
+    "name" : "package",
+    "value" : "verifyiong page titles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef31347f31697bb4.json",
+  "parameterValues" : [ ]
+}

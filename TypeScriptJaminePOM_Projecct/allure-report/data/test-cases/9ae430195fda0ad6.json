@@ -1,0 +1,46 @@
+{
+  "uid" : "9ae430195fda0ad6",
+  "name" : "populating the register formurlCurrent_Content_ThirdDataSets",
+  "fullName" : "demo automation homepage demo.populating the register formurlCurrent_Content_ThirdDataSets",
+  "historyId" : "864bf7b40b22c5eff833a0067f67ff95",
+  "time" : {
+    "start" : 1592047419924,
+    "stop" : 1592047428128,
+    "duration" : 8204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "demo automation homepage demo"
+  }, {
+    "name" : "testClass",
+    "value" : "demo automation homepage demo"
+  }, {
+    "name" : "testMethod",
+    "value" : "populating the register formurlCurrent_Content_ThirdDataSets"
+  }, {
+    "name" : "package",
+    "value" : "demo automation homepage demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ae430195fda0ad6.json",
+  "parameterValues" : [ ]
+}

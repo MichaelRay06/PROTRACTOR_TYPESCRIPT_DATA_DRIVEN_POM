@@ -1,0 +1,48 @@
+{
+  "uid" : "564f35e09ff1b91e",
+  "name" : "drag and drop test case",
+  "fullName" : "performing web interatction.drag and drop test case",
+  "historyId" : "c900b4a0dfda6561163843bf2a664e79",
+  "time" : {
+    "start" : 1592047362325,
+    "stop" : 1592047362325,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "performing web interatction"
+  }, {
+    "name" : "testClass",
+    "value" : "performing web interatction"
+  }, {
+    "name" : "testMethod",
+    "value" : "drag and drop test case"
+  }, {
+    "name" : "package",
+    "value" : "performing web interatction"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "564f35e09ff1b91e.json",
+  "parameterValues" : [ ]
+}
